@@ -1,0 +1,16 @@
+{
+  "name": "run-monte-carlo",
+  "version": "1.0.0",
+  "description": "A utility to run Monte Carlo simulations in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node test"
+  },
+  "keywords": [
+    "monte",
+    "carlo",
+    "simulation"
+  ],
+  "author": "Hubert Maslin <hubert.maslin@gmail.com>",
+  "license": "MIT"
+}
