@@ -1,7 +1,7 @@
 {
-  "name": "run-monte-carlo",
+  "name": "node-monte-carlo",
   "version": "1.0.0",
-  "description": "A utility to run Monte Carlo simulations in Node.js",
+  "description": "An utility to run Monte Carlo simulations in Node.js",
   "main": "index.js",
   "scripts": {
     "test": "jasmine-node test"

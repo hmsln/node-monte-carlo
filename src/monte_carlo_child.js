@@ -1,4 +1,4 @@
-var program = require('./program.js');
+var program = require('../run/program.js');
 
 process.on('message', function (msg) {
 	

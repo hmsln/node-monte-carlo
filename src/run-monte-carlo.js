@@ -70,7 +70,7 @@ var MC = function (f, options) {
 		}
 
 		latices[latices.length - 1][1] += nIters % numCPUs;
-		console.log(latices);
+		
 		for (let i = 0; i < numCPUs; i++) {
 			conditions.push(String(i));
 		}
