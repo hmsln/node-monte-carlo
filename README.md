@@ -1,2 +1,2 @@
-# Node-Monte-Carlo
+# Node Monte Carlo
 (docs are yet to be written)
