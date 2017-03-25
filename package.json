@@ -12,5 +12,8 @@
     "simulation"
   ],
   "author": "Hubert Maslin <hubert.maslin@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "flexible-toolkit": "^1.0.3"
+  }
 }
